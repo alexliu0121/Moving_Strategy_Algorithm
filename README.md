@@ -65,8 +65,10 @@ The project is a Java-based application that implements a map navigation system 
 - Sand tiles affect routing based on their cost, visible in the pathfinding behavior.
 
 ## Screenshots
+The following fours images shows the moving strategy of the algorithm. The left two images are the right ways to move and the right tow images are the wrong ways to move.
 ![Player Movement example 1](screenshots/screenshot1.png)
 ![Player Movement example 2](screenshots/screenshot2.png)
+The following two images shows that the algorithm calculates the cost of moving. The cost of the moving in left image is 3 while the cost of the moving in the right image is 100.
 ![Cost Analysis](screenshots/screenshot3.png)
 
 
