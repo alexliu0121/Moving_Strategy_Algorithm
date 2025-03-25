@@ -38,16 +38,12 @@ The project is a Java-based application that implements a map navigation system 
 
 1. **Clone the Repository**:
   ```bash
-   git clone https://github.com/[your-username]/[your-repo-name].git
-   cd [your-repo-name]
+   git clone https://github.com/alexliu0121/Moving_Strategy_Algorithm.git
+   cd Moving_Strategy_Algorithm
   ```
 
 2. **Database Setup**:
-- Ensure MySQL is running on `140.127.220.220:3306` (or update `DemoDB.java` with your local database configuration).
-- Use the provided credentials: 
-  - Database: `checkpoint`
-  - Username: `CHECKPOINT`
-  - Password: `ckppwd`
+- Ensure MySQL is running.
 - Tables required: `barrier`, `barrier_type`, `map`, `route`, `sand`.
 
 3. **Compile and Run**:
